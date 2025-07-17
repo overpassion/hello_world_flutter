@@ -168,10 +168,11 @@ cd ios && pod install && cd ..
 
 ## ■ 개발 환경
 
-- **Local 디바이스**: Xcode 8.0 (8A218a), Cordova 6.4.0
-- **서버**: 전자정부표준프레임워크 개발환경3.6
-- **테스트 디바이스**: iPhone 6, iPad Air
-- **테스트 플랫폼**: iOS 9.3, iOS 10.0
+- **MacOS Sequoia** : v15.5
+- **Flutter** : v3.32.6
+- **Android Studio** : v2025.1.1
+- **XCode** : v16.3
+- **iOS Simulator** : v16.0
 
 ## ■ 라이선스
 
