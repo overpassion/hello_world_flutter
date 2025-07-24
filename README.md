@@ -174,6 +174,12 @@ cd ios && pod install && cd ..
 - **XCode** : v16.3
 - **iOS Simulator** : v16.0
 
+## ■ 반드시 적용해야 하는 라이브러리
+
+- Retrofit : Rest API
+- freezed : VO 핸들링
+
+
 ## ■ 라이선스
 
 이 프로젝트는 MIT 라이선스하에 배포됩니다.
